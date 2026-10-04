@@ -1,0 +1,55 @@
+/* Câu 3: Tạo kiểu cho thẻ body */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+/* Câu 4: Tạo kiểu cho thẻ header */
+header {
+    background-color: #1a365d;
+    color: #ffffff;
+    padding: 20px;
+}
+
+/* Câu 5: Tạo kiểu cho thẻ nav */
+nav {
+    background-color: #2b6cb0;
+    padding: 10px;
+}
+
+/* Câu 6: Tạo kiểu cho thẻ main */
+main {
+    background-color: #ffffff;
+    font-size: 18px;
+    padding: 20px;
+}
+
+/* Câu 7: Tạo kiểu cho thẻ footer */
+footer {
+    background-color: #1a365d;
+    color: #ffffff;
+    padding: 15px;
+    text-align: center;
+}
+
+/* Câu 8: Tạo kiểu cho thẻ li */
+li {
+    display: inline-block;
+    width: 120px;
+}
+
+/* Câu 9: Tạo kiểu cho thẻ h1 */
+h1 {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #ffffff;
+}
+
+/* Câu 10: Tạo kiểu cho thẻ p */
+p {
+    line-height: 1.6;
+    color: #2d3748;
+}
